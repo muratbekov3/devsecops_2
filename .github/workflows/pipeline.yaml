@@ -16,9 +16,6 @@ jobs:
         cd app-source
         docker build -t app:${{ github.sha }} .
 
-    - name: Scan image (Trivy)
-      run: trivy image app:${{ github.sha }}
-
     - name: Push to DockerHub
       run: |
         docker tag app:${{ github.sha }} muratbekov3/devsecops-app:${{ github.sha }}

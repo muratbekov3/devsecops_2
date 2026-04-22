@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/muratbekov3/devsecops_2
     targetRevision: HEAD
-    path: apps
+    path: gitops-repo/apps
   destination:
     server: https://kubernetes.default.svc
     namespace: default

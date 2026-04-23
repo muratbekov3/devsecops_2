@@ -1,4 +1,4 @@
-# 🚀 DevSecOps GitOps Project (ArgoCD + Kubernetes + Observability)
+# 🚀 DevOps GitOps Project (ArgoCD + Kubernetes + Observability)
 
 ## 📌 Overview
 
@@ -211,5 +211,7 @@ http://localhost:3000
 Akylbek Muratbek uulu
 
 ---
-
+<img src="./Screenshot from 2026-04-23 17-02-18.png" alt="argocd" width="900">
+<img src="./Screenshot from 2026-04-23 17-06-23.png" alt="argocd" width="900">
+<img src="./Screenshot from 2026-04-23 17-07-03.png" alt="argocd" width="900">
 
